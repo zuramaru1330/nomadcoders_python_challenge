@@ -1,9 +1,11 @@
 # Using this file as white list
 *
+/lib/**
 
 # Only allow those files
 !.gitignore
-!/templates/*
+!/templates/**
+!/extractors/
 !*.py
 !*.html
 !*.htm
