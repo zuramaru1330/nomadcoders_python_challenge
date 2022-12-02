@@ -1,0 +1,9 @@
+# Using this file as white list
+*
+!*/
+
+# Only allow those files
+!.gitignore
+!*.py
+!*.html
+!*.htm
