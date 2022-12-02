@@ -1,9 +1,9 @@
 # Using this file as white list
 *
-!*/
 
 # Only allow those files
 !.gitignore
+!/templates/*
 !*.py
 !*.html
 !*.htm
